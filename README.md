@@ -10,8 +10,14 @@ To intsall the application an .apk file is attachd with this .READMe file. You h
 ![Screenshot_20210520_190112](https://user-images.githubusercontent.com/56120520/119031680-fb8f4380-b9c8-11eb-8f37-a845f51160e5.jpg)
 
 -->
-<img align = "left" src="https://user-images.githubusercontent.com/56120520/119030233-3db78580-b9c7-11eb-9b71-4f4574a18fa7.jpg" alt="alt text" height="300px" hspace = "10" >
-<img align = "left" src="https://user-images.githubusercontent.com/56120520/119031254-8459af80-b9c8-11eb-909e-6263371598dd.jpg" alt="alt text" height="300px" hspace = "10" >
-<img align = "left" src="https://user-images.githubusercontent.com/56120520/119031680-fb8f4380-b9c8-11eb-8f37-a845f51160e5.jpg" alt="alt text" height="300px" hspace = "10" >
-<img align = "left" src="https://user-images.githubusercontent.com/56120520/119031583-dc90b180-b9c8-11eb-8106-50a73a213ec0.jpg" alt="alt text" height="300px" hspace = "10" >
-<img align = "left" src="https://user-images.githubusercontent.com/56120520/119031445-bc60f280-b9c8-11eb-92c4-7293d44f40d3.jpg" alt="alt text" height="300px" hspace = "10" >
+
+<img align = "left" src="https://github.com/MuskanJain13/Mission-Outing/blob/main/1.png" alt="alt text" hspace = "10">
+<br /> <br />
+<img align = "left" src="https://github.com/MuskanJain13/Mission-Outing/blob/main/3.png" alt="alt text" hspace = "10" >
+<br /> <br />
+
+<img align = "left" src="https://user-images.githubusercontent.com/56120520/119030233-3db78580-b9c7-11eb-9b71-4f4574a18fa7.jpg" alt="alt text" height="320px" hspace = "10" > 
+<img align = "left" src="https://user-images.githubusercontent.com/56120520/119031254-8459af80-b9c8-11eb-909e-6263371598dd.jpg" alt="alt text" height="320px" hspace = "10" >
+<img align = "left" src="https://user-images.githubusercontent.com/56120520/119031680-fb8f4380-b9c8-11eb-8f37-a845f51160e5.jpg" alt="alt text" height="320px" hspace = "10" >
+<img align = "left" src="https://user-images.githubusercontent.com/56120520/119031583-dc90b180-b9c8-11eb-8106-50a73a213ec0.jpg" alt="alt text" height="320px" hspace = "10" >
+<img align = "left" src="https://user-images.githubusercontent.com/56120520/119031445-bc60f280-b9c8-11eb-92c4-7293d44f40d3.jpg" alt="alt text" height="320px" hspace = "10" >
